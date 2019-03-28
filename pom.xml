@@ -9,7 +9,7 @@
     <artifactId>servlet-demo</artifactId>
     <version>1.0.0.Final</version>
 
-    <name>Undertow Servlet Example</name>
+    <name> Servlet Example</name>
     <description>Undertow Servlet Example for OpenShift Java S2I</description>
 
     <properties>
